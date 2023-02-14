@@ -1,2 +1,2 @@
- #!/bin/bash
-What’s in there?
+#!//bin/bash 
+The shell basics 
